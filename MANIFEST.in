@@ -1,0 +1,2 @@
+recursive-include tutorenrollmentsplugin/patches *
+recursive-include tutorenrollmentsplugin/templates *
